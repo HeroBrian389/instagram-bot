@@ -1,3 +1,3 @@
 # instagram-bot
 
-Instagram bot is a bot that automates interactions with Instagram using selenium and python.
+Instagram bot is a bot that automates interactions with Instagram with selenium and python.
