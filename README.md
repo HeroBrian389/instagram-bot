@@ -3,10 +3,10 @@
 Instagram bot is a bot that automates interactions with Instagram with selenium and python.
 
 
-There are 3 classes
+There are 11 classes
 
 <ul>
-  <li>Profile</li>
+  <li>Get info from your profile - who follows/unfollows you and who you unfollow/follow (profile)</li>
   <li>User retrieval (extract_users)</li>
   <li>Sending follow requests (request)</li>
   <li>Analytics class that doesn't really work (track)</li>
