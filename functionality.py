@@ -30,6 +30,11 @@ from os import path
 from fastai.vision.all import *
 from tqdm import tqdm
 
+import geckodriver_autoinstaller
+
+
+geckodriver_autoinstaller.install()
+
 
 
 
@@ -64,6 +69,8 @@ class profile(object):
         # Click the "followers" button
         #followers = -2
         #following = -1
+
+        # status is either "followers" or "following"
 
         dictionary = {
             "followers": -2,
